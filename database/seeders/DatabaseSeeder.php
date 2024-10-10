@@ -32,7 +32,7 @@ class DatabaseSeeder extends Seeder
         ]);
          Skripsi::create([
             'judul' => 'Analisis pengaruh Chatgpt',
-            'nama' => 'Dimas Rio Ardianto',
+            'nama' => 'Siti Fatimah',
             'nim' => '6304',
             'angkatan' => '2022',
             'dosen_pembimbing1' => 'Fajri Profesio Putra, M.Cs',
